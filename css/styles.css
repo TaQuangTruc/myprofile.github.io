@@ -21,6 +21,8 @@ body {
     background-color: #00ABB3;
     /* opacity: 70%; */
     overflow: hidden;
+    position: fixed;
+    z-index: 1000;
   }
 .topnav-right{
     float: right;
